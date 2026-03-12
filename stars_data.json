@@ -1,0 +1,209 @@
+{
+  "last_updated": "2026-03-12T15:43:43.012200",
+  "total": 159,
+  "categories": {
+    "Claude Code & Anthropic": [
+      "ComposioHQ/awesome-claude-skills",
+      "rohitg00/skillkit",
+      "TheCraigHewitt/seomachine",
+      "shanraisshan/claude-code-best-practice",
+      "VoltAgent/awesome-claude-code-subagents",
+      "thedotmack/claude-mem",
+      "davila7/claude-code-templates",
+      "webfuse-com/awesome-claude",
+      "jeremylongshore/claude-code-plugins-plus-skills",
+      "anthropics/claude-code",
+      "anthropics/skills",
+      "siteboon/claudecodeui",
+      "wshobson/agents",
+      "mathiaschu/meta-ads-analyzer",
+      "BerriAI/litellm",
+      "affaan-m/everything-claude-code",
+      "gsd-build/get-shit-done",
+      "asgeirtj/system_prompts_leaks",
+      "sickn33/antigravity-awesome-skills",
+      "x1xhlol/system-prompts-and-models-of-ai-tools"
+    ],
+    "OpenClaw Ecosystem": [
+      "LeoYeAI/openclaw-master-skills",
+      "HKUDS/nanobot",
+      "scalyclaw/scalyclaw",
+      "nearai/ironclaw",
+      "ValueCell-ai/ClawX",
+      "LeoYeAI/openclaw-guardian",
+      "nullclaw/nullclaw",
+      "zofrasca/lightclaw",
+      "VoltAgent/awesome-openclaw-skills",
+      "machinae/awesome-claws",
+      "supermemoryai/openclaw-supermemory",
+      "NevaMind-AI/memU",
+      "openclaw/openclaw"
+    ],
+    "AI Agents & Frameworks": [
+      "HKUDS/DeepCode",
+      "HKUDS/CLI-Anything",
+      "browser-use/browser-use",
+      "msitarzewski/agency-agents",
+      "rounak/PhoneAgent",
+      "QwenLM/Qwen-Agent",
+      "netease-youdao/LobsterAI",
+      "agentscope-ai/CoPaw",
+      "saturndec/waoowaoo",
+      "FlowiseAI/Flowise",
+      "TobiasNorlund/ui-act",
+      "sanjay3290/ai-skills",
+      "alibaba/OpenSandbox",
+      "RKiding/Awesome-finance-skills",
+      "google/adk-python",
+      "Fosowl/agenticSeek",
+      "GiovanniPasq/agentic-rag-for-dummies",
+      "comet-ml/opik",
+      "FoundationAgents/OpenManus",
+      "papercomputeco/agentd",
+      "papercomputeco/masterblaster",
+      "papercomputeco/stereOS",
+      "agent0ai/agent-zero",
+      "remorses/playwriter",
+      "RightNow-AI/openfang",
+      "bytedance/deer-flow",
+      "VRSEN/agency-swarm",
+      "HKUDS/AnyTool",
+      "pablodelucca/pixel-agents",
+      "ChromeDevTools/chrome-devtools-mcp",
+      "badlogic/pi-mono",
+      "ThePrimeagen/99",
+      "virattt/dexter",
+      "obra/superpowers",
+      "muratcankoylan/Agent-Skills-for-Context-Engineering",
+      "OpenBB-finance/OpenBB",
+      "ashishpatel26/500-AI-Agents-Projects",
+      "seojoonkim/prompt-guard",
+      "MoonshotAI/Kimi-VL",
+      "David-patrick-chuks/Riona-AI-Agent"
+    ],
+    "MCP (Model Context Protocol)": [
+      "googleapis/genai-toolbox",
+      "wshobson/maverick-mcp",
+      "financial-datasets/mcp-server",
+      "modelcontextprotocol/ext-apps"
+    ],
+    "LLMs & ML Models": [
+      "rtk-ai/rtk",
+      "OminousIndustries/PhoneDriver",
+      "second-state/qwen3_tts_rs",
+      "huggingface/transformers",
+      "LMCache/LMCache",
+      "jamiepine/voicebox",
+      "NVIDIA/Megatron-LM",
+      "AlexsJones/llmfit",
+      "google-research/timesfm",
+      "MoonshotAI/Kimi-Dev",
+      "MoonshotAI/Kimi-Audio",
+      "MoonshotAI/Kimina-Prover-Preview",
+      "MoonshotAI/Moonlight",
+      "MoonshotAI/MoBA",
+      "MoonshotAI/Kimi-k1.5",
+      "kvcache-ai/Mooncake",
+      "deepseek-ai/awesome-deepseek-integration",
+      "Tencent-Hunyuan/HY-WorldPlay"
+    ],
+    "RAG & Vector Databases": [
+      "HKUDS/RAG-Anything",
+      "HKUDS/LightRAG",
+      "VectifyAI/PageIndex",
+      "KeygraphHQ/shannon",
+      "alibaba/zvec",
+      "ruvnet/RuVector"
+    ],
+    "Memory & Context Engineering": [
+      "Kevin-thu/StoryMem"
+    ],
+    "Finance & Trading": [
+      "HKUDS/AI-Trader",
+      "QuantConnect/Lean",
+      "wilsonfreitas/awesome-quant"
+    ],
+    "Browser Automation & Scraping": [
+      "pinchtab/pinchtab",
+      "berstend/puppeteer-extra",
+      "moonD4rk/HackBrowserData",
+      "checkly/headless-recorder",
+      "segment-boneyard/nightmare",
+      "gildas-lormeau/SingleFile",
+      "steipete/summarize",
+      "LadybirdBrowser/ladybird",
+      "D4Vinci/Scrapling",
+      "AISCIENCES/course-data-scraping-from-beginner-to-professional",
+      "adam-p/markdown-here"
+    ],
+    "Media Generation": [
+      "ruvnet/RuView",
+      "ysharma3501/LuxTTS",
+      "FujiwaraChoki/MoneyPrinter",
+      "FujiwaraChoki/MoneyPrinterV2",
+      "Stremio/stremio-web",
+      "AUTOMATIC1111/stable-diffusion-webui",
+      "GVCLab/PersonaLive"
+    ],
+    "Security & OSINT": [
+      "0x0be/yesitsme"
+    ],
+    "System Prompts & Prompt Engineering": [
+      "f/prompts.chat",
+      "p-e-w/heretic"
+    ],
+    "Learning & Courses": [
+      "HKUDS/DeepTutor",
+      "navassherif98/IBM_Data_Science_Professional_Certification",
+      "jmportilla/Complete-Python-Bootcamp",
+      "Pierian-Data/Complete-Python-3-Bootcamp",
+      "robertbunch/socketioTheDetails",
+      "joanby/machinelearning-az",
+      "temporaer/tutorial_ml_gkbionics",
+      "Tanu-N-Prabhu/Python"
+    ],
+    "APIs & Public Data": [
+      "marcelscruz/public-apis",
+      "n0shake/Public-APIs",
+      "public-apis/public-apis",
+      "Rapptz/discord.py"
+    ],
+    "Operating Systems & Infrastructure": [
+      "papercomputeco/stereosd"
+    ],
+    "Developer Tools": [
+      "paperclipai/paperclip",
+      "microsoft/markitdown",
+      "tobi/qmd",
+      "steipete/gogcli",
+      "levineam/qmd-skill",
+      "massive-com/client-python"
+    ],
+    "Discord & Chat": [
+      "socketio/socket.io"
+    ],
+    "Mobile & UI": [
+      "cporter202/API-mega-list",
+      "codecrafters-io/build-your-own-x"
+    ],
+    "Data & Databases": [
+      "opendataloader-project/opendataloader-pdf",
+      "pandas-dev/pandas",
+      "jupyter/jupyter"
+    ],
+    "Awesome Lists": [
+      "awesome-selfhosted/awesome-selfhosted"
+    ],
+    "Skills & Plugins": [
+      "huggingface/skills"
+    ],
+    "Other": [
+      "ItzCrazyKns/Vane",
+      "HKUDS/FastCode",
+      "FilipePS/Traduzir-paginas-web",
+      "SynkraAI/aiox-core",
+      "EvanZhuang/test_time_recursive_thinking",
+      "joaneeet7/Solidity"
+    ]
+  }
+}
